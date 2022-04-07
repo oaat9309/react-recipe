@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+## React Recipe App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> React와 API를 활용한 간단한 레시피 검색 도구입니다.
 
-## Available Scripts
+### API
 
-In the project directory, you can run:
+- Spoonacular Food API 사용
 
-### `npm start`
+- .env 파일로 API Key 보안화
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Application
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Local Storage를 활용해 Recipe List 저장 (반복적인 data fetch 방지)
 
-### `npm test`
+### CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 
-### `npm run build`
+- Styled-components 적용
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=Framer&logoColor=white"/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Framer Motion 적용
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://img.shields.io/badge/React Icon-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-### `npm run eject`
+- React Icon 적용
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Splide 적용
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Paging
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src="https://img.shields.io/badge/React Router -CA4245?style=flat-square&logo=React Router&logoColor=white"/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React Router Dom(v6) 적용
 
-## Learn More
+### Misc
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img src="https://img.shields.io/badge/Create React App -09D3AC?style=flat-square&logo=Create React App&logoColor=white"/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- CRA를 활용한 프로젝트 구성
 
-### Code Splitting
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- ESLint / Prettier를 활용한 코드 관리
