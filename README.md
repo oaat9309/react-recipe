@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=Framer&logoColor=white"/>
 
-- Framer Motion 적용
+- Framer Motion 적용 (motion, AnimatePresence)
 
 <img src="https://img.shields.io/badge/React Icon-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
