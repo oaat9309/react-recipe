@@ -44,3 +44,7 @@
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
 
 - ESLint / Prettier를 활용한 코드 관리
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+
+- Netlify를 이용한 배포 완료
